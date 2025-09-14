@@ -3,8 +3,6 @@
 
 Sistema profissional de gerenciamento de chamados baseado no design Figma, desenvolvido com Next.js 14, TypeScript e tecnologias modernas. Oferece uma experiência completa de gestão de tickets com chatbot inteligente, dashboard interativo e controle de acesso por níveis.
 
-![Case Flow](https://i.ytimg.com/vi/Ibq5dgjjtjI/mqdefault.jpg)
-
 ## ✨ Funcionalidades Principais
 
 ### 🔐 **Sistema de Autenticação**
